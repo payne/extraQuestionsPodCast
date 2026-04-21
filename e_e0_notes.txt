@@ -1,0 +1,52 @@
+Ham Radio Extra Class Question Pool
+Section E0 - 12 Questions
+============================================================
+
+E0A01
+Q: What is the primary function of an external earth connection or ground rod?
+A: (B) Lightning charge dissipation
+
+E0A02
+Q: When evaluating RF exposure levels from your station at a neighbor’s home, what must you do?
+A: (B) Ensure signals from your station are less than the uncontrolled maximum permissible exposure (MPE) limits
+
+E0A03
+Q: Over what range of frequencies are the FCC human body RF exposure limits most restrictive?
+A: (C) 30 - 300 MHz
+
+E0A04
+Q: When evaluating a site with multiple transmitters operating at the same time, the operators and licensees of which transmitters are responsible for mitigating over-exposure situations?
+A: (C) Each transmitter that produces 5 percent or more of its MPE limit in areas where the total MPE limit is exceeded
+
+E0A05
+Q: What hazard is created by operating at microwave frequencies?
+A: (B) The high gain antennas commonly used can result in high exposure levels
+
+E0A06
+Q: Why are there separate electric (E) and magnetic (H) MPE limits at frequencies below 300 MHz?
+A: (D) All these choices are correct
+
+E0A07
+Q: What is meant by “100% tie-off” regarding tower safety?
+A: (B) At least one lanyard attached to the tower at all times
+
+E0A08
+Q: What does SAR measure?
+A: (C) The rate at which RF energy is absorbed by the body
+
+E0A09
+Q: Which of the following types of equipment are exempt from RF exposure evaluations?
+A: (C) Hand-held transceivers sold before May 3, 2021
+
+E0A10
+Q: When must an RF exposure evaluation be performed on an amateur station operating on 80 meters?
+A: (A) An evaluation must always be performed
+
+E0A11
+Q: To what should lanyards be attached while climbing?
+A: (D) Tower legs
+
+E0A12
+Q: Where should a shock-absorbing lanyard be attached to a tower when working above ground?
+A: (A) Above the climber’s head level
+

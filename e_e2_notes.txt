@@ -1,0 +1,244 @@
+Ham Radio Extra Class Question Pool
+Section E2 - 60 Questions
+============================================================
+
+E2A01
+Q: What is the direction of an ascending pass for an amateur satellite?
+A: (C) From south to north
+
+E2A02
+Q: Which of the following is characteristic of an inverting linear transponder?
+A: (D) All these choices are correct
+
+E2A03
+Q: How is an upload signal processed by an inverting linear transponder?
+A: (D) The signal is mixed with a local oscillator signal and the difference product is transmitted
+
+E2A04
+Q: What is meant by the “mode” of an amateur radio satellite?
+A: (B) The satellite’s uplink and downlink frequency bands
+
+E2A05
+Q: What do the letters in a satellite’s mode designator specify?
+A: (D) The uplink and downlink frequency ranges
+
+E2A06
+Q: What are Keplerian elements?
+A: (A) Parameters that define the orbit of a satellite
+
+E2A07
+Q: Which of the following types of signals can be relayed through a linear transponder?
+A: (D) All these choices are correct
+
+E2A08
+Q: Why should effective radiated power (ERP) be limited to a satellite that uses a linear transponder?
+A: (B) To avoid reducing the downlink power to all other users
+
+E2A09
+Q: What do the terms “L band” and “S band” specify?
+A: (A) The 23- and 13-centimeter bands
+
+E2A10
+Q: What type of satellite appears to stay in one position in the sky?
+A: (B) Geostationary
+
+E2A11
+Q: What type of antenna can be used to minimize the effects of spin modulation and Faraday rotation?
+A: (B) A circularly polarized antenna
+
+E2A12
+Q: What is the purpose of digital store-and-forward functions on an amateur radio satellite?
+A: (C) To hold digital messages in the satellite for later download
+
+E2B01
+Q: In digital television, what does a coding rate of 3/4 mean?
+A: (A) 25% of the data sent is forward error correction data
+
+E2B02
+Q: How many horizontal lines make up a fast-scan (NTSC) television frame?
+A: (C) 525
+
+E2B03
+Q: How is an interlaced scanning pattern generated in a fast-scan (NTSC) television system?
+A: (D) By scanning odd-numbered lines in one field and even-numbered lines in the next
+
+E2B04
+Q: How is color information sent in analog SSTV?
+A: (A) Color lines are sent sequentially
+
+E2B05
+Q: Which of the following describes the use of vestigial sideband in analog fast-scan TV transmissions?
+A: (C) Vestigial sideband reduces the bandwidth while increasing the fidelity of low frequency video components
+
+E2B06
+Q: What is vestigial sideband modulation?
+A: (A) Amplitude modulation in which one complete sideband and a portion of the other are transmitted
+
+E2B07
+Q: Which types of modulation are used for amateur television DVB-T signals?
+A: (B) QAM and QPSK
+
+E2B08
+Q: What technique allows commercial analog TV receivers to be used for fast-scan TV operations on the 70-centimeter band?
+A: (A) Transmitting on channels shared with cable TV
+
+E2B09
+Q: What kind of receiver can be used to receive and decode SSTV using the Digital Radio Mondiale (DRM) protocol?
+A: (D) SSB
+
+E2B10
+Q: What aspect of an analog slow-scan television signal encodes the brightness of the picture?
+A: (A) Tone frequency
+
+E2B11
+Q: What is the function of the vertical interval signaling (VIS) code sent as part of an SSTV transmission?
+A: (B) To identify the SSTV mode being used
+
+E2B12
+Q: What signals SSTV receiving software to begin a new picture line?
+A: (A) Specific tone frequencies
+
+E2C01
+Q: What indicator is required to be used by US-licensed operators when operating a station via remote control and the remote transmitter is located in the US?
+A: (D) No additional indicator is required
+
+E2C02
+Q: Which of the following file formats is used for exchanging amateur radio log data?
+A: (C) ADIF
+
+E2C03
+Q: From which of the following bands is amateur radio contesting generally excluded?
+A: (A) 30 meters
+
+E2C04
+Q: Which of the following frequencies can be used for amateur radio mesh networks?
+A: (B) Frequencies shared with various unlicensed wireless data services
+
+E2C05
+Q: What is the function of a DX QSL Manager?
+A: (B) Handle the receiving and sending of confirmations for a DX station
+
+E2C06
+Q: During a VHF/UHF contest, in which band segment would you expect to find the highest level of SSB or CW activity?
+A: (C) In the weak signal segment of the band, with most of the activity near the calling frequency
+
+E2C07
+Q: What is the Cabrillo format?
+A: (A) A standard for submission of electronic contest logs
+
+E2C08
+Q: Which of the following contacts may be confirmed through the Logbook of The World (LoTW)?
+A: (D) All these choices are correct
+
+E2C09
+Q: What type of equipment is commonly used to implement an amateur radio mesh network?
+A: (C) A wireless router running custom firmware
+
+E2C10
+Q: Why do DX stations often transmit and receive on different frequencies?
+A: (D) All these choices are correct
+
+E2C11
+Q: How should you generally identify your station when attempting to contact a DX station during a contest or in a pileup?
+A: (A) Send your full call sign once or twice
+
+E2C12
+Q: What indicates the delay between a control operator action and the corresponding change in the transmitted signal?
+A: (C) Latency
+
+E2D01
+Q: Which of the following digital modes is designed for meteor scatter communications?
+A: (B) MSK144
+
+E2D02
+Q: What information replaces signal-to-noise ratio when using the FT8 or FT4 modes in a VHF contest?
+A: (D) Grid square
+
+E2D03
+Q: Which of the following digital modes is designed for EME communications?
+A: (D) Q65
+
+E2D04
+Q: What technology is used for real-time tracking of balloons carrying amateur radio transmitters?
+A: (C) APRS
+
+E2D05
+Q: What is the characteristic of the JT65 mode?
+A: (B) Decodes signals with a very low signal-to-noise ratio
+
+E2D06
+Q: Which of the following is a method for establishing EME contacts?
+A: (A) Time-synchronous transmissions alternating between stations
+
+E2D07
+Q: What digital protocol is used by APRS?
+A: (C) AX.25
+
+E2D08
+Q: What type of packet frame is used to transmit APRS beacon data?
+A: (C) Unnumbered Information
+
+E2D09
+Q: What type of modulation is used by JT65?
+A: (A) Multitone AFSK
+
+E2D10
+Q: What does the packet path WIDE3-1 designate?
+A: (C) Three digipeater hops are requested with one remaining
+
+E2D11
+Q: How do APRS stations relay data?
+A: (D) By packet digipeaters
+
+E2E01
+Q: Which of the following types of modulation is used for data emissions below 30 MHz?
+A: (B) FSK
+
+E2E02
+Q: Which of the following synchronizes WSJT-X digital mode transmit/receive timing?
+A: (B) Synchronization of computer clocks
+
+E2E03
+Q: To what does the "4" in FT4 refer?
+A: (B) Four-tone continuous-phase frequency shift keying
+
+E2E04
+Q: Which of the following is characteristic of the FST4 mode?
+A: (D) All these choices are correct
+
+E2E05
+Q: Which of these digital modes does not support keyboard-to-keyboard operation?
+A: (A) WSPR
+
+E2E06
+Q: What is the length of an FT8 transmission cycle?
+A: (C) 15 seconds
+
+E2E07
+Q: How does Q65 differ from JT65?
+A: (C) Multiple receive cycles are averaged
+
+E2E08
+Q: Which of the following HF digital modes can be used to transfer binary files?
+A: (B) PACTOR
+
+E2E09
+Q: Which of the following HF digital modes uses variable-length character coding?
+A: (D) PSK31
+
+E2E10
+Q: Which of these digital modes has the narrowest bandwidth?
+A: (C) FT8
+
+E2E11
+Q: What is the difference between direct FSK and audio FSK?
+A: (A) Direct FSK modulates the transmitter VFO
+
+E2E12
+Q: How do ALE stations establish contact?
+A: (A) ALE constantly scans a list of frequencies, activating the radio when the designated call sign is received
+
+E2E13
+Q: Which of these digital modes has the highest data throughput under clear communication conditions?
+A: (D) PACTOR IV
+

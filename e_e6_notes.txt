@@ -1,0 +1,276 @@
+Ham Radio Extra Class Question Pool
+Section E6 - 68 Questions
+============================================================
+
+E6A01
+Q: In what application is gallium arsenide used as a semiconductor material?
+A: (C) In microwave circuits
+
+E6A02
+Q: Which of the following semiconductor materials contains excess free electrons?
+A: (A) N-type
+
+E6A03
+Q: Why does a PN-junction diode not conduct current when reverse biased?
+A: (C) Holes in P-type material and electrons in the N-type material are separated by the applied voltage, widening the depletion region
+
+E6A04
+Q: What is the name given to an impurity atom that adds holes to a semiconductor crystal structure?
+A: (C) Acceptor impurity
+
+E6A05
+Q: How does DC input impedance at the gate of a field-effect transistor (FET) compare with that of a bipolar transistor?
+A: (C) An FET has higher input impedance
+
+E6A06
+Q: What is the beta of a bipolar junction transistor?
+A: (B) The change in collector current with respect to the change in base current
+
+E6A07
+Q: Which of the following indicates that a silicon NPN junction transistor is biased on?
+A: (D) Base-to-emitter voltage of approximately 0.6 volts to 0.7 volts
+
+E6A08
+Q: What is the term for the frequency at which the grounded-base current gain of a bipolar junction transistor has decreased to 0.7 of the gain obtainable at 1 kHz?
+A: (D) Alpha cutoff frequency
+
+E6A09
+Q: What is a depletion-mode field-effect transistor (FET)?
+A: (A) An FET that exhibits a current flow between source and drain when no gate voltage is applied
+
+E6A10
+Q: In Figure E6-1, which is the schematic symbol for an N-channel dual-gate MOSFET?
+A: (B) 4
+
+E6A11
+Q: In Figure E6-1, which is the schematic symbol for a P-channel junction FET?
+A: (A) 1
+
+E6A12
+Q: What is the purpose of connecting Zener diodes between a MOSFET gate and its source or drain?
+A: (D) To protect the gate from static damage
+
+E6B01
+Q: What is the most useful characteristic of a Zener diode?
+A: (B) A constant voltage drop under conditions of varying current
+
+E6B02
+Q: Which characteristic of a Schottky diode makes it a better choice than a silicon junction diode for use as a power supply rectifier?
+A: (D) Lower forward voltage drop
+
+E6B03
+Q: What property of an LED's semiconductor material determines its forward voltage drop?
+A: (B) Band gap
+
+E6B04
+Q: What type of semiconductor device is designed for use as a voltage-controlled capacitor?
+A: (A) Varactor diode
+
+E6B05
+Q: What characteristic of a PIN diode makes it useful as an RF switch?
+A: (D) Low junction capacitance
+
+E6B06
+Q: Which of the following is a common use of a Schottky diode?
+A: (D) As a VHF/UHF mixer or detector
+
+E6B07
+Q: What causes a junction diode to fail from excessive current?
+A: (B) Excessive junction temperature
+
+E6B08
+Q: Which of the following is a Schottky barrier diode?
+A: (A) Metal-semiconductor junction
+
+E6B09
+Q: What is a common use for point-contact diodes?
+A: (C) As an RF detector
+
+E6B10
+Q: In Figure E6-2, which is the schematic symbol for a Schottky diode?
+A: (B) 6
+
+E6B11
+Q: What is used to control the attenuation of RF signals by a PIN diode?
+A: (A) Forward DC bias current
+
+E6C01
+Q: What is the function of hysteresis in a comparator?
+A: (A) To prevent input noise from causing unstable output signals
+
+E6C02
+Q: What happens when the level of a comparator’s input signal crosses the threshold voltage?
+A: (B) The comparator changes its output state
+
+E6C03
+Q: What is tri-state logic?
+A: (A) Logic devices with 0, 1, and high-impedance output states
+
+E6C04
+Q: Which of the following is an advantage of BiCMOS logic?
+A: (C) It has the high input impedance of CMOS and the low output impedance of bipolar transistors
+
+E6C05
+Q: Which of the following digital logic families has the lowest power consumption?
+A: (D) CMOS
+
+E6C06
+Q: Why do CMOS digital integrated circuits have high immunity to noise on the input signal or power supply?
+A: (C) The input switching threshold is about half the power supply voltage
+
+E6C07
+Q: What best describes a pull-up or pull-down resistor?
+A: (B) A resistor connected to the positive or negative supply used to establish a voltage when an input or output is an open circuit
+
+E6C08
+Q: In Figure E6-3, which is the schematic symbol for a NAND gate?
+A: (B) 2
+
+E6C09
+Q: What is used to design the configuration of a field-programmable gate array (FPGA)?
+A: (B) Hardware description language (HDL)
+
+E6C10
+Q: In Figure E6-3, which is the schematic symbol for a NOR gate?
+A: (D) 4
+
+E6C11
+Q: In Figure E6-3, which is the schematic symbol for the NOT operation (inversion)?
+A: (C) 5
+
+E6D01
+Q: What is piezoelectricity?
+A: (C) A characteristic of materials that generate a voltage when stressed and that flex when a voltage is applied
+
+E6D02
+Q: What is the equivalent circuit of a quartz crystal?
+A: (A) Series RLC in parallel with a shunt C representing electrode and stray capacitance
+
+E6D03
+Q: Which of the following is an aspect of the piezoelectric effect?
+A: (A) Mechanical deformation of material due to the application of a voltage
+
+E6D04
+Q: Why are cores of inductors and transformers sometimes constructed of thin layers?
+A: (B) To reduce power loss from eddy currents in the core
+
+E6D05
+Q: How do ferrite and powdered iron compare for use in an inductor core?
+A: (C) Ferrite cores generally require fewer turns to produce a given inductance value
+
+E6D06
+Q: What core material property determines the inductance of an inductor?
+A: (D) Permeability
+
+E6D08
+Q: Which of the following materials has the highest temperature stability of its magnetic characteristics?
+A: (B) Powdered iron
+
+E6D09
+Q: What devices are commonly used as VHF and UHF parasitic suppressors at the input and output terminals of a transistor HF amplifier?
+A: (C) Ferrite beads
+
+E6D10
+Q: What is a primary advantage of using a toroidal core instead of a solenoidal core in an inductor?
+A: (A) Toroidal cores confine most of the magnetic field within the core material
+
+E6D11
+Q: Which type of core material decreases inductance when inserted into a coil?
+A: (B) Brass
+
+E6D12
+Q: What causes inductor saturation?
+A: (C) Operation at excessive magnetic flux
+
+E6E01
+Q: Why is gallium arsenide (GaAs) useful for semiconductor devices operating at UHF and higher frequencies?
+A: (B) Higher electron mobility
+
+E6E02
+Q: Which of the following device packages is a through-hole type?
+A: (A) DIP
+
+E6E03
+Q: Which of the following materials supports the highest frequency of operation when used in MMICs?
+A: (D) Gallium nitride
+
+E6E04
+Q: Which is the most common input and output impedance of MMICs?
+A: (A) 50 ohms
+
+E6E05
+Q: Which of the following noise figure values is typical of a low-noise UHF preamplifier?
+A: (A) 0.5 dB
+
+E6E06
+Q: What characteristics of MMICs make them a popular choice for VHF through microwave circuits?
+A: (D) Controlled gain, low noise figure, and constant input and output impedance over the specified frequency range
+
+E6E07
+Q: What type of transmission line is often used for connections to MMICs?
+A: (D) Microstrip
+
+E6E08
+Q: How is power supplied to the most common type of MMIC?
+A: (C) Through a resistor and/or RF choke connected to the amplifier output lead
+
+E6E09
+Q: Which of the following component package types have the least parasitic effects at frequencies above the HF range?
+A: (D) Surface mount
+
+E6E10
+Q: What advantage does surface-mount technology offer at RF compared to using through-hole components?
+A: (D) All these choices are correct
+
+E6E11
+Q: What is a characteristic of DIP packaging used for integrated circuits?
+A: (D) Two rows of connecting pins on opposite sides of package (dual in-line package)
+
+E6E12
+Q: Why are DIP through-hole package ICs not typically used at UHF and higher frequencies?
+A: (C) Excessive lead length
+
+E6F01
+Q: What absorbs the energy from light falling on a photovoltaic cell?
+A: (C) Electrons
+
+E6F02
+Q: What happens to photoconductive material when light shines on it?
+A: (A) Resistance decreases
+
+E6F03
+Q: What is the most common configuration of an optoisolator or optocoupler?
+A: (D) An LED and a phototransistor
+
+E6F04
+Q: What is the photovoltaic effect?
+A: (B) The conversion of light to electrical energy
+
+E6F05
+Q: Which of the following describes an optical shaft encoder?
+A: (A) A device that detects rotation by interrupting a light source with a patterned wheel
+
+E6F06
+Q: Which of these materials is most commonly used to create photoconductive devices?
+A: (C) Crystalline semiconductor
+
+E6F07
+Q: What is a solid-state relay?
+A: (B) A device that uses semiconductors to implement the functions of an electromechanical relay
+
+E6F08
+Q: Why are optoisolators often used in conjunction with solid-state circuits that control 120 VAC circuits?
+A: (C) Optoisolators provide an electrical isolation between a control circuit and the circuit being switched
+
+E6F09
+Q: What is the efficiency of a photovoltaic cell?
+A: (D) The relative fraction of light that is converted to current
+
+E6F10
+Q: What is the most common material used in power-generating photovoltaic cells?
+A: (B) Silicon
+
+E6F11
+Q: What is the approximate open-circuit voltage produced by a fully illuminated silicon photovoltaic cell?
+A: (A) 0.5 volts
+

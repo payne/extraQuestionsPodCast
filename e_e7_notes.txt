@@ -1,0 +1,400 @@
+Ham Radio Extra Class Question Pool
+Section E7 - 99 Questions
+============================================================
+
+E7A01
+Q: Which circuit is bistable?
+A: (C) A flip-flop
+
+E7A02
+Q: What is the function of a decade counter?
+A: (A) It produces one output pulse for every 10 input pulses
+
+E7A03
+Q: Which of the following can divide the frequency of a pulse train by 2?
+A: (B) A flip-flop
+
+E7A04
+Q: How many flip-flops are required to divide a signal frequency by 16?
+A: (A) 4
+
+E7A05
+Q: Which of the following circuits continuously alternates between two states without an external clock signal?
+A: (D) Astable multivibrator
+
+E7A06
+Q: What is a characteristic of a monostable multivibrator?
+A: (A) It switches temporarily to an alternate state for a set time
+
+E7A07
+Q: What logical operation does a NAND gate perform?
+A: (D) It produces a 0 at its output only if all inputs are 1
+
+E7A08
+Q: What logical operation does an OR gate perform?
+A: (A) It produces a 1 at its output if any input is 1
+
+E7A09
+Q: What logical operation is performed by a two-input exclusive NOR gate?
+A: (C) It produces a 0 at its output if one and only one of its inputs is 1
+
+E7A10
+Q: What is a truth table?
+A: (B) A list of inputs and corresponding outputs for a digital device
+
+E7A11
+Q: What does “positive logic” mean in reference to logic devices?
+A: (B) High voltage represents a 1, low voltage a 0
+
+E7B01
+Q: For what portion of the signal cycle does each active element in a push-pull, Class AB amplifier conduct?
+A: (A) More than 180 degrees but less than 360 degrees
+
+E7B02
+Q: What is a Class D amplifier?
+A: (A) An amplifier that uses switching technology to achieve high efficiency
+
+E7B03
+Q: What circuit is required at the output of an RF switching amplifier?
+A: (A) A filter to remove harmonic content
+
+E7B04
+Q: What is the operating point of a Class A common emitter amplifier?
+A: (A) Approximately halfway between saturation and cutoff
+
+E7B05
+Q: What can be done to prevent unwanted oscillations in an RF power amplifier?
+A: (C) Install parasitic suppressors and/or neutralize the stage
+
+E7B06
+Q: What is a characteristic of a grounded-grid amplifier?
+A: (B) Low input impedance
+
+E7B07
+Q: Which of the following is the likely result of using a Class C amplifier to amplify a single-sideband phone signal?
+A: (D) Signal distortion and excessive bandwidth
+
+E7B08
+Q: Why are switching amplifiers more efficient than linear amplifiers?
+A: (B) The switching device is at saturation or cutoff most of the time
+
+E7B09
+Q: What is characteristic of an emitter follower (or common collector) amplifier?
+A: (D) Input and output signals in-phase
+
+E7B10
+Q: In Figure E7-1, what is the purpose of R1 and R2?
+A: (B) Voltage divider bias
+
+E7B11
+Q: In Figure E7-1, what is the purpose of R3?
+A: (D) Self bias
+
+E7B12
+Q: What type of amplifier circuit is shown in Figure E7-1?
+A: (C) Common emitter
+
+E7C01
+Q: How are the capacitors and inductors of a low-pass filter Pi-network arranged between the network’s input and output?
+A: (D) A capacitor is connected between the input and ground, another capacitor is connected between the output and ground, and an inductor is connected between the input and output
+
+E7C02
+Q: What is the frequency response of a T-network with series capacitors and a shunt inductor?
+A: (B) High-pass
+
+E7C03
+Q: What is the purpose of adding an inductor to a Pi-network to create a Pi-L-network?
+A: (A) Greater harmonic suppression
+
+E7C04
+Q: How does an impedance-matching circuit transform a complex impedance to a resistive impedance?
+A: (C) It cancels the reactive part of the impedance and changes the resistive part to the desired value
+
+E7C05
+Q: Which filter type has ripple in the passband and a sharp cutoff?
+A: (D) A Chebyshev filter
+
+E7C06
+Q: What are the characteristics of an elliptical filter?
+A: (C) Extremely sharp cutoff with one or more notches in the stop band
+
+E7C07
+Q: Which describes a Pi-L network?
+A: (B) A Pi-network with an additional output series inductor
+
+E7C08
+Q: Which of the following is most frequently used as a band-pass or notch filter in VHF and UHF transceivers?
+A: (B) A helical filter
+
+E7C09
+Q: What is a crystal lattice filter?
+A: (D) A filter for low-level signals made using quartz crystals
+
+E7C10
+Q: Which of the following filters is used in a 2-meter band repeater duplexer?
+A: (B) A cavity filter
+
+E7C11
+Q: Which of the following measures a filter’s ability to reject signals in adjacent channels?
+A: (C) Shape factor
+
+E7D01
+Q: How does a linear electronic voltage regulator work?
+A: (D) The conduction of a control element is varied to maintain a constant output voltage
+
+E7D02
+Q: How does a switchmode voltage regulator work?
+A: (B) By varying the duty cycle of pulses input to a filter
+
+E7D03
+Q: What device is used as a stable voltage reference?
+A: (A) A Zener diode
+
+E7D04
+Q: Which of the following describes a three-terminal voltage regulator?
+A: (B) A series regulator
+
+E7D05
+Q: Which of the following types of linear voltage regulator operates by loading the unregulated voltage source?
+A: (D) A shunt regulator
+
+E7D06
+Q: What is the purpose of Q1 in the circuit shown in Figure E7-2?
+A: (C) It controls the current to keep the output voltage constant
+
+E7D07
+Q: What is the purpose of C2 in the circuit shown in Figure E7-2?
+A: (A) It bypasses rectifier output ripple around D1
+
+E7D08
+Q: What type of circuit is shown in Figure E7-2?
+A: (C) Linear voltage regulator
+
+E7D09
+Q: How is battery operating time calculated?
+A: (C) Capacity in amp-hours divided by average current
+
+E7D10
+Q: Why is a switching type power supply less expensive and lighter than an equivalent linear power supply?
+A: (C) The high frequency inverter design uses much smaller transformers and filter components for an equivalent power output
+
+E7D11
+Q: What is the purpose of an inverter connected to a solar panel output?
+A: (D) Convert the panel’s output from DC to AC
+
+E7D12
+Q: What is the dropout voltage of a linear voltage regulator?
+A: (C) Minimum input-to-output voltage required to maintain regulation
+
+E7D13
+Q: Which of the following calculates power dissipated by a series linear voltage regulator?
+A: (C) Voltage difference from input to output multiplied by output current
+
+E7D14
+Q: What is the purpose of connecting equal-value resistors across power supply filter capacitors connected in series?
+A: (D) All these choices are correct
+
+E7D15
+Q: What is the purpose of a step-start circuit in a high-voltage power supply?
+A: (D) To allow the filter capacitors to charge gradually
+
+E7E01
+Q: Which of the following can be used to generate FM phone signals?
+A: (B) Reactance modulation of a local oscillator
+
+E7E02
+Q: What is the function of a reactance modulator?
+A: (D) Produce PM or FM signals by varying a capacitance
+
+E7E03
+Q: What is a frequency discriminator?
+A: (D) A circuit for detecting FM signals
+
+E7E04
+Q: What is one way to produce a single-sideband phone signal?
+A: (A) Use a balanced modulator followed by a filter
+
+E7E05
+Q: What is added to an FM speech channel to boost the higher audio frequencies?
+A: (D) A pre-emphasis network
+
+E7E06
+Q: Why is de-emphasis used in FM communications receivers?
+A: (A) For compatibility with transmitters using phase modulation
+
+E7E07
+Q: What is meant by the term “baseband” in radio communications?
+A: (B) The frequency range occupied by a message signal prior to modulation
+
+E7E08
+Q: What are the principal frequencies that appear at the output of a mixer?
+A: (C) The two input frequencies along with their sum and difference frequencies
+
+E7E09
+Q: What occurs when the input signal levels to a mixer are too high?
+A: (A) Spurious mixer products are generated
+
+E7E10
+Q: How does a diode envelope detector function?
+A: (A) By rectification and filtering of RF signals
+
+E7E11
+Q: Which type of detector is used for demodulating SSB signals?
+A: (C) Product detector
+
+E7F01
+Q: What is meant by “direct sampling” in software defined radios?
+A: (C) Incoming RF is digitized by an analog-to-digital converter without being mixed with a local oscillator signal
+
+E7F02
+Q: What kind of digital signal processing audio filter is used to remove unwanted noise from a received SSB signal?
+A: (A) An adaptive filter
+
+E7F03
+Q: What type of digital signal processing filter is used to generate an SSB signal?
+A: (C) A Hilbert-transform filter
+
+E7F04
+Q: Which method generates an SSB signal using digital signal processing?
+A: (D) Signals are combined in quadrature phase relationship
+
+E7F05
+Q: How frequently must an analog signal be sampled to be accurately reproduced?
+A: (B) At least twice the rate of the highest frequency component of the signal
+
+E7F06
+Q: What is the minimum number of bits required to sample a signal with a range of 1 volt at a resolution of 1 millivolt?
+A: (D) 10 bits
+
+E7F07
+Q: What function is performed by a Fast Fourier Transform?
+A: (C) Converting signals from the time domain to the frequency domain
+
+E7F08
+Q: What is the function of decimation?
+A: (B) Reducing the effective sample rate by removing samples
+
+E7F09
+Q: Why is an anti-aliasing filter required in a decimator?
+A: (A) It removes high-frequency signal components that would otherwise be reproduced as lower frequency components
+
+E7F10
+Q: What aspect of receiver analog-to-digital conversion determines the maximum receive bandwidth of a direct-sampling software defined radio (SDR)?
+A: (A) Sample rate
+
+E7F11
+Q: What sets the minimum detectable signal level for a direct-sampling software defined receiver in the absence of atmospheric or thermal noise?
+A: (B) Reference voltage level and sample width in bits
+
+E7F12
+Q: Which of the following is generally true of Finite Impulse Response (FIR) filters?
+A: (A) FIR filters can delay all frequency components of the signal by the same amount
+
+E7F13
+Q: What is the function of taps in a digital signal processing filter?
+A: (D) Provide incremental signal delays for filter algorithms
+
+E7F14
+Q: Which of the following would allow a digital signal processing filter to create a sharper filter response?
+A: (B) More taps
+
+E7G01
+Q: What is the typical output impedance of an op-amp?
+A: (A) Very low
+
+E7G02
+Q: What is the frequency response of the circuit in E7-3 if a capacitor is added across the feedback resistor?
+A: (B) Low-pass filter
+
+E7G03
+Q: What is the typical input impedance of an op-amp?
+A: (D) Very high
+
+E7G04
+Q: What is meant by the term “op-amp input offset voltage”?
+A: (C) The differential input voltage needed to bring the open loop output voltage to zero
+
+E7G05
+Q: How can unwanted ringing and audio instability be prevented in an op-amp audio filter?
+A: (A) Restrict both gain and Q
+
+E7G06
+Q: What is the gain-bandwidth of an operational amplifier?
+A: (B) The frequency at which the open-loop gain of the amplifier equals one
+
+E7G07
+Q: What voltage gain can be expected from the circuit in Figure E7-3 when R1 is 10 ohms and RF is 470 ohms?
+A: (C) 47
+
+E7G08
+Q: How does the gain of an ideal operational amplifier vary with frequency?
+A: (D) It does not vary with frequency
+
+E7G09
+Q: What will be the output voltage of the circuit shown in Figure E7-3 if R1 is 1,000 ohms, RF is 10,000 ohms, and 0.23 volts DC is applied to the input?
+A: (D) -2.3 volts
+
+E7G10
+Q: What absolute voltage gain can be expected from the circuit in Figure E7-3 when R1 is 1,800 ohms and RF is 68 kilohms?
+A: (C) 38
+
+E7G11
+Q: What absolute voltage gain can be expected from the circuit in Figure E7-3 when R1 is 3,300 ohms and RF is 47 kilohms?
+A: (B) 14
+
+E7G12
+Q: What is an operational amplifier?
+A: (A) A high-gain, direct-coupled differential amplifier with very high input impedance and very low output impedance
+
+E7H01
+Q: What are three common oscillator circuits?
+A: (D) Colpitts, Hartley, and Pierce
+
+E7H02
+Q: What is a microphonic?
+A: (C) Changes in oscillator frequency caused by mechanical vibration
+
+E7H03
+Q: What is a phase-locked loop?
+A: (C) An electronic servo loop consisting of a phase detector, a low-pass filter, a voltage-controlled oscillator, and a stable reference oscillator
+
+E7H04
+Q: How is positive feedback supplied in a Colpitts oscillator?
+A: (C) Through a capacitive divider
+
+E7H05
+Q: How is positive feedback supplied in a Pierce oscillator?
+A: (D) Through a quartz crystal
+
+E7H06
+Q: Which of these functions can be performed by a phase-locked loop?
+A: (B) Frequency synthesis and FM demodulation
+
+E7H07
+Q: How can an oscillator’s microphonic responses be reduced?
+A: (D) Mechanically isolate the oscillator circuitry from its enclosure
+
+E7H08
+Q: Which of the following components can be used to reduce thermal drift in crystal oscillators?
+A: (A) NP0 capacitors
+
+E7H09
+Q: What type of frequency synthesizer circuit uses a phase accumulator, lookup table, digital-to-analog converter, and a low-pass anti-alias filter?
+A: (A) A direct digital synthesizer
+
+E7H10
+Q: What information is contained in the lookup table of a direct digital synthesizer (DDS)?
+A: (B) Amplitude values that represent the desired waveform
+
+E7H11
+Q: What are the major spectral impurity components of direct digital synthesizers?
+A: (C) Spurious signals at discrete frequencies
+
+E7H12
+Q: Which of the following ensures that a crystal oscillator operates on the frequency specified by the crystal manufacturer?
+A: (B) Provide the crystal with a specified parallel capacitance
+
+E7H13
+Q: Which of the following is a technique for providing highly accurate and stable oscillators needed for microwave transmission and reception?
+A: (D) All these choices are correct
+

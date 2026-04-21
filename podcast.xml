@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Ham Radio Extra Class 2024-2028</title>
+    <link>http://HOST_PLACEHOLDER:8000/</link>
+    <description>Amateur Radio Extra Class Question Pool 2024-2028. Audio study guide with questions and correct answers for each section.</description>
+    <language>en-us</language>
+    <itunes:author>Ham Radio Study</itunes:author>
+    <itunes:category text="Education"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://HOST_PLACEHOLDER:8000/cover.jpg"/>
+
+    <item>
+      <title>Section E0 - Safety (12 questions)</title>
+      <description>E0: Commission's Rules - Safety. Covers RF safety, hazardous voltages, and safety practices.</description>
+      <enclosure url="http://HOST_PLACEHOLDER:8000/e_e0.mp3" length="1086336" type="audio/mpeg"/>
+      <guid>extra-2024-e0</guid>
+    </item>
+
+    <item>
+      <title>Section E1 - Commission's Rules (68 questions)</title>
+      <description>E1: Commission's Rules. Covers operating standards, station control, and frequency privileges.</description>
+      <enclosure url="http://HOST_PLACEHOLDER:8000/e_e1.mp3" length="6661440" type="audio/mpeg"/>
+      <guid>extra-2024-e1</guid>
+    </item>
+
+    <item>
+      <title>Section E2 - Operating Procedures (60 questions)</title>
+      <description>E2: Operating Procedures. Covers satellites, EME, spread spectrum, and digital modes.</description>
+      <enclosure url="http://HOST_PLACEHOLDER:8000/e_e2.mp3" length="4809456" type="audio/mpeg"/>
+      <guid>extra-2024-e2</guid>
+    </item>
+
+    <item>
+      <title>Section E3 - Radio Wave Propagation (39 questions)</title>
+      <description>E3: Radio Wave Propagation. Covers ionospheric propagation, transequatorial, and scatter modes.</description>
+      <enclosure url="http://HOST_PLACEHOLDER:8000/e_e3.mp3" length="3162672" type="audio/mpeg"/>
+      <guid>extra-2024-e3</guid>
+    </item>
+
+    <item>
+      <title>Section E4 - Amateur Practices (63 questions)</title>
+      <description>E4: Amateur Practices. Covers receivers, transmitters, and test equipment.</description>
+      <enclosure url="http://HOST_PLACEHOLDER:8000/e_e4.mp3" length="5639040" type="audio/mpeg"/>
+      <guid>extra-2024-e4</guid>
+    </item>
+
+    <item>
+      <title>Section E5 - Electrical Principles (49 questions)</title>
+      <description>E5: Electrical Principles. Covers AC/DC theory, resonance, and impedance.</description>
+      <enclosure url="http://HOST_PLACEHOLDER:8000/e_e5.mp3" length="4221792" type="audio/mpeg"/>
+      <guid>extra-2024-e5</guid>
+    </item>
+
+    <item>
+      <title>Section E6 - Circuit Components (68 questions)</title>
+      <description>E6: Circuit Components. Covers semiconductors, ICs, and digital circuits.</description>
+      <enclosure url="http://HOST_PLACEHOLDER:8000/e_e6.mp3" length="5506128" type="audio/mpeg"/>
+      <guid>extra-2024-e6</guid>
+    </item>
+
+    <item>
+      <title>Section E7 - Practical Circuits (99 questions)</title>
+      <description>E7: Practical Circuits. Covers filters, oscillators, modulators, and DSP.</description>
+      <enclosure url="http://HOST_PLACEHOLDER:8000/e_e7.mp3" length="8124768" type="audio/mpeg"/>
+      <guid>extra-2024-e7</guid>
+    </item>
+
+    <item>
+      <title>Section E8 - Signals and Emissions (48 questions)</title>
+      <description>E8: Signals and Emissions. Covers modulation, bandwidth, and signal processing.</description>
+      <enclosure url="http://HOST_PLACEHOLDER:8000/e_e8.mp3" length="4046544" type="audio/mpeg"/>
+      <guid>extra-2024-e8</guid>
+    </item>
+
+    <item>
+      <title>Section E9 - Antennas and Feed Lines (93 questions)</title>
+      <description>E9: Antennas and Feed Lines. Covers antenna design, patterns, and transmission lines.</description>
+      <enclosure url="http://HOST_PLACEHOLDER:8000/e_e9.mp3" length="7973280" type="audio/mpeg"/>
+      <guid>extra-2024-e9</guid>
+    </item>
+
+  </channel>
+</rss>
