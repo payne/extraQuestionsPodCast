@@ -85,7 +85,7 @@ def format_question_for_speech(question):
     lines = [
         f"Question {q_id}.",
         q_text,
-        f"The correct answer is {correct_letter}.",
+        f"Answer is ",
         correct_answer,
     ]
     return " ... ".join(lines)  # Ellipsis creates natural pauses
